@@ -1,13 +1,37 @@
-.a {
-  margin-left: -150px;
+.c-content-wrapper {
+  padding-left: 90px;
+  width: 100%;
 }
+
+
+
+.car {
+vertical-align: middle;
+}
+
 .arm {
   position: absolute;
   left: 150px;
   top: 50px;
-  color: white;
+  cursor: hand;
 }
+
 .b {
   font-size: 25px;
   font-family:'Futura PT W01 Book';
+} 
+
+.c-masthead__headline {
+  padding: 190px 70px 0;
+  text-align: left;
+  font-family: "Futura PT W01 Book";
+  line-height: 1rem;
+  text-transform: uppercase;
+  width: 100px;
 }
+.yellow {
+  background-color: #ffc700;
+  display: block;
+  height: 3px;
+}
+
