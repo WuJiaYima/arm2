@@ -1,0 +1,13 @@
+.a {
+  margin-left: -150px;
+}
+.arm {
+  position: absolute;
+  left: 150px;
+  top: 50px;
+  color: white;
+}
+.b {
+  font-size: 25px;
+  font-family:'Futura PT W01 Book';
+}
