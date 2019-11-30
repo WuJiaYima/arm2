@@ -2,7 +2,6 @@ body {
   padding: 0px;
   margin: 0px;
 }
-
 .car {
   background: url(./images/主页图.jpg);
   position: absolute;
@@ -25,18 +24,18 @@ body {
   text-align: left;
   color: white;
   font-family: Arial, Helvetica, sans-serif;
+  font-weight: bolder;
 }
 .description {
   font-size: 21px;
   color: white;
   line-height: 2px;
   font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 30px;
 }
 .title {
   font-size: 66px;
   color: white;
-
-  
 }
 .yellow {
   background-color: #ffc700;
@@ -46,4 +45,16 @@ body {
   margin-bottom: 50px;
   width: 938px;
 }
-
+.learn {
+  background: #ffc700;
+  color: #333e48;
+  margin: 0px;
+  border-radius: 40px;
+  font-size: 20px;
+  width: 180px;
+  padding: 10px;
+  margin-top: 40px;
+}
+.more {
+  padding-left: 40px;
+}
