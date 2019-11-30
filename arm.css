@@ -1,13 +1,8 @@
-.c-content-wrapper {
-  padding-left: 90px;
-  width: 100%;
+body {
+  padding: 0px;
+  margin: 0px;
 }
 
-
-
-.car {
-vertical-align: middle;
-}
 
 .arm {
   position: absolute;
@@ -16,17 +11,9 @@ vertical-align: middle;
   cursor: hand;
 }
 
-.b {
-  font-size: 25px;
-  font-family:'Futura PT W01 Book';
-} 
-
-.c-masthead__headline {
+.headline {
   padding: 190px 70px 0;
   text-align: left;
-  font-family: "Futura PT W01 Book";
-  line-height: 1rem;
-  text-transform: uppercase;
   width: 100px;
 }
 .yellow {
