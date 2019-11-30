@@ -3,16 +3,16 @@ body {
   margin: 0px;
 }
 .car {
-  background: url(./images/主页图.jpg);
+  background: url(./images/主页图3.jpg);
   position: absolute;
   left: 90px;
-  width: 1650px;
+  width: 1615px;
   height: 706px;
   background-position: center;
 }
 .arm {
   position: absolute;
-  left: 70px;
+  left: 80px;
   top: 50px;
   cursor: hand;
 }
