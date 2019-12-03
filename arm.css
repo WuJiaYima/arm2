@@ -68,7 +68,7 @@ body {
  .alland {
    width: 90px;
    height: 705px;
-   box-shadow: 10px 0px 10px rgba(0,0,0,0.9) 
+   box-shadow: 1px 0px 5px gray
 
  }
 
@@ -150,7 +150,35 @@ body {
    font-size: 12px;
    color: gray;
  }
- .q {
-   width: 100px;
-   height: 100px;
- }
+.w {
+  padding-top: 90px;
+}
+.row {
+
+}
+.product {
+  font-size: 48px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 400px;
+  margin-bottom: 30px;
+  font-weight: 600;
+  color: #333e48;
+}
+.from {
+  max-width: 70.12rem;
+  line-height: inherit;
+  letter-spacing: 1px;
+  font-family: inherit;
+  color:gray;
+  line-height: inherit;
+  margin-left: 340px;
+}
+.e {
+  margin-bottom: 30px;
+}
+.xinpian {
+  
+}
+.xin {
+  padding: 38px 50px; 
+}
