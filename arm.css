@@ -66,10 +66,14 @@ body {
  
 
  .alland {
+   position: relative;
    width: 90px;
    height: 705px;
-   box-shadow: 1px 0px 5px gray
 
+ }
+ #aa {
+   position: fixed;
+   box-shadow: 0px;
  }
 
  .products {
@@ -157,6 +161,10 @@ body {
 
 }
 .product {
+  width: 1000px;
+  position: absolute;
+  left: 50px;
+  top: 800px;
   font-size: 48px;
   font-family: Arial, Helvetica, sans-serif;
   margin-left: 400px;
@@ -165,20 +173,58 @@ body {
   color: #333e48;
 }
 .from {
+  position: absolute;
+  top: 900px;
+  width: 1100px;
+  color: gray;
   max-width: 70.12rem;
   line-height: inherit;
   letter-spacing: 1px;
-  font-family: inherit;
-  color:gray;
-  line-height: inherit;
+  font-family:Arial, Helvetica, sans-serif;
   margin-left: 340px;
+  letter-spacing: 0.5px;
+
 }
 .e {
+  display: inline-block;
+  width: 1000px;
+  position: absolute;
+  left: 100px;
+  top: 900px;
   margin-bottom: 30px;
 }
+
+.xx { 
+  position: relative;
+  height: 900px;
+  width: 2000px;
+}
+
+.p {
+  position: relative;
+}
+
+.nn {
+  width: 1100px;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+}
 .xinpian {
+  float: left;
+  display: inline-block;
+  width: 350px;
+  padding: 30px 50px;
+  margin: 0 auto;
   
 }
-.xin {
-  padding: 38px 50px; 
+.yun {
+  float: right;
+  position: relative;
+  width: 350px;
+  display: inline-block;
+  padding:30px 50px;
+  margin: 0 auto;
 }
+
