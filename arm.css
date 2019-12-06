@@ -54,10 +54,14 @@ body {
   width: 180px;
   padding: 10px;
   margin-top: 40px;
+
 }
 .more {
   padding-left: 40px;
+  color: #333e48;
+  text-decoration: none;
 }
+
  .arm2 {
    position: absolute;
    left: 15px;
@@ -111,8 +115,8 @@ body {
    font-family: Arial, Helvetica, sans-serif;
    position: absolute;
    font-size: 12px;
-   left: 21px;
-   top: 290px;
+   left: 23px;
+   top: 298px;
    color: gray;
  }
  .support {
@@ -183,7 +187,7 @@ body {
   font-family:Arial, Helvetica, sans-serif;
   margin-left: 340px;
   letter-spacing: 0.5px;
-
+  text-align: center;
 }
 .e {
   display: inline-block;
@@ -214,17 +218,85 @@ body {
 .xinpian {
   float: left;
   display: inline-block;
-  width: 350px;
+  width: 450px;
   padding: 30px 50px;
   margin: 0 auto;
-  
+}
+.xp {
+  padding-left: 120px;
 }
 .yun {
   float: right;
   position: relative;
-  width: 350px;
+  width: 450px;
   display: inline-block;
   padding:30px 50px;
   margin: 0 auto;
 }
-
+.yun2 {
+  padding-left: 120px;
+}
+.rrocessor {
+  color: #333e48;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-top: 30px;
+  margin-left: 140px;
+  margin-bottom: 20px;
+}
+.technology {
+  font-size: 28px;
+  margin: 0 0 15px;
+  line-height: 1.2;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  text-align: center;
+}
+.world {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: gray;
+  text-align: center;
+}
+.explore  {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 110px;
+  padding-top: 20px;
+  font-size: 21px;
+  font-weight: 500;
+  color: darkcyan;
+}
+.tot {
+  color: #333e48;
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-left: 80px ;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+.removes {
+  font-size: 28px;
+  line-height: 1.2;
+  font-family: Arial, Helvetica, sans-serif;
+  color: gray;
+  text-align: center;
+  margin: 0 0 15px;
+}
+.complete {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: gray;
+  text-align: center;
+}
+.exploretot {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 110px;
+  padding-top: 50px;
+  font-size: 21px;
+  font-weight: 500;
+  color: darkcyan;
+}
