@@ -56,6 +56,9 @@ body {
   margin-top: 40px;
 
 }
+.ff {
+  position: fixed;
+}
 .more {
   padding-left: 40px;
   color: #333e48;
@@ -63,6 +66,7 @@ body {
 }
 
  .arm2 {
+   position: fixed;
    position: absolute;
    left: 15px;
    top: 40px;
@@ -70,12 +74,14 @@ body {
  
 
  .alland {
-   position: relative;
+   position: relative;;
    width: 90px;
    height: 705px;
 
  }
-
+.aa {
+  position: relative;
+}
 
  .products {
    position: absolute;
@@ -367,4 +373,80 @@ color: #fff;
 padding-top: 5px;
 padding-left: 25px;
 padding-bottom: 10px;
+}
+.man {
+  position: absolute; 
+  left: 800px;
+  top: 2500px;
+}
+.people {
+  background-color: #333e48;
+  margin-top: 550px;
+  margin-left: 80px;
+  height: 1120px;
+}
+.Solutions {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  font-weight: 300;
+  line-height: 1.25;
+  color: #fff;
+  padding-top: 230px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+}
+.mobile {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  font-size: 48px;
+  line-height: 1.25;
+  margin-left: 200px;
+}
+.Innovation {
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  line-height: 1.5;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.learn2 {
+  color:#00c1de ;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+  text-decoration: none;
+  margin-left: 200px;
+  margin-top: 40px;
+}
+.More {
+  font-size: 26px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+  margin-top: 80px;
+  margin-left: 190px;
+}
+.li2 {
+  display: inline-block;
+  margin: 0 auto;
+  width: 164px;
+  height: 150px;
+  padding: 0px;
+}
+.roww {
+  position: absolute;
+  left: 250px;
+  top: 3450px;
+}
+.bbb {
+  width:160px ;
+  background-color: #fff;
+  height: 130px;
+  padding-top: 40px;
+  padding-left: 35px;
+}
+.pp {
+  padding-top: 35px;
+  background-color: #0091bd;
+  text-align: center;
+  width: 200px;
 }
