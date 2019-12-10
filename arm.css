@@ -311,7 +311,7 @@ body {
 }
 .Resources3 {
   background-color: #333e48;
-  width: 1800px;
+  width: 1600px;
   height: 180px;
   margin-left: 80px;
 }
@@ -434,8 +434,8 @@ padding-bottom: 10px;
 }
 .roww {
   position: absolute;
-  left: 250px;
-  top: 3450px;
+   left: 230px;
+  top: 3400px;
 }
 .bbb {
   width:160px ;
@@ -449,4 +449,91 @@ padding-bottom: 10px;
   background-color: #0091bd;
   text-align: center;
   width: 200px;
+  padding-bottom: 10px;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+
+.menghuan {
+  position: absolute;
+  left: 1100px;
+}
+
+.footer {
+  height: 80px;
+  width: 100%;
+  background-color:#fff;
+  position: fixed;
+  bottom: 0;
+  border: 8px solid rgba(0,0,0,0.25);
+}
+.site {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  margin-left: 240px;
+  margin-top: 20px;
+  width: 900px;
+}
+.Accepyt {
+  position: absolute;
+  bottom: 30px;
+  margin-left: 1200px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #000;
+  text-decoration: none;
+  background-color: #ffc700;
+  border-radius: 5px;
+  padding: 10px;
+}
+.vvv{
+  background-color: #eff5f4 !important;
+  height: 800px;
+  margin-left: 70px;
+}
+.pelion{
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333e48;
+  font-size: 48px;
+  line-height: 1.25;
+  margin-left: 200px;
+  padding-top: 130px;
+}
+.device{
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333e48;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.pelion2{
+  font-family: Arial, Helvetica, sans-serif;
+  color: #333e48;
+  margin-left: 200px;
+  margin-top: 30px;
+  line-height: 2;
+  margin-bottom: 40px;
+}
+.explore2{
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 19px;
+  text-decoration: none;
+  padding-left: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.yyy{
+  background-color: #ffc700;
+  width: 330px;
+  border-radius: 40px;
+  margin-left: 200px;
+}
+.cross{
+  position: absolute;
+  left: 943px;
+  top: 3850px;
 }
